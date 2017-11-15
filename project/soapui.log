@@ -1,3 +1,5 @@
 2017-11-15 22:44:26,903 WARN  [DefaultSoapUICore] Missing folder [/home/rico/ext] for external libraries
 2017-11-15 22:44:27,122 INFO  [DefaultSoapUICore] initialized soapui-settings from [/home/rico/soapui-settings.xml]
 2017-11-15 22:44:27,541 INFO  [WorkspaceImpl] Loading workspace from [/home/rico/intellij-soapui-workspace.xml]
+2017-11-15 22:49:05,690 INFO  [WorkspaceImpl] Saved workspace to [/home/rico/intellij-soapui-workspace.xml]
+2017-11-15 22:49:05,724 INFO  [DefaultSoapUICore] Settings saved to [/home/rico/soapui-settings.xml]
