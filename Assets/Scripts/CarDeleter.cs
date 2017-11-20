@@ -9,9 +9,8 @@ public class CarRespawn : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        
         if ((this.transform.position - this.SpawnPoint).magnitude >= this.TravelDistance) {
-            this.transform.position = this.SpawnPoint;
+            GameObject.Destroy(this);
         }
 	}
 }
